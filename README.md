@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilph
 - 👀 I’m interested in Data Science and Data Mining.
-- 🌱 I’m currently pursuing PhD in Comuter Science from University of Cincinnati.
+- 🌱 I’m currently pursuing PhD in Computer Science from University of Cincinnati.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
